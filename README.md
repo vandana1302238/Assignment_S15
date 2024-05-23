@@ -41,13 +41,13 @@ This data was trained for 100 epochs
 Training loss and metrics
 
 <p align="center">
-    <img src="images/graph.PNG" alt="centered image" />
+    <img src="images/graph.png" alt="centered image" />
 </p>
 
 Confusion matrix
 
 <p align="center">
-    <img src="images/cm.PNG" alt="centered image" />
+    <img src="images/cm.png" alt="centered image" />
 </p>
 
 Kindly refer the spaces link for inference
